@@ -1,8 +1,9 @@
 package hasdups_test
 
 import (
-	"hasdups"
 	"testing"
+
+	"github.com/Unquabain/hasdups"
 )
 
 type TestCase struct {
